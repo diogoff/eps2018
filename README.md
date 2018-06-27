@@ -1,4 +1,4 @@
-# Source code for the EPS 2018 conference paper
+# Source code for the EPS 2018 paper
 
 _Regularization extraction for real-time plasma tomography at JET_  
 D. R. Ferreira, D. D. Carvalho, P. J. Carvalho, H. Fernandes, and JET Contributors  
