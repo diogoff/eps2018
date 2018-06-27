@@ -10,14 +10,15 @@ D. R. Ferreira, D. D. Carvalho, P. J. Carvalho, H. Fernandes, and JET Contributo
 
 * `geom.py` contains some simple routines to read those geometry files.
 
-* `tomo_kb5_reliable.hdf` contais the reconstructions that were used for data fiting; `bolo_kb5_reliable.hdf` contains the full KB5 signals for the same pulses.
+* `tomo_kb5_reliable.hdf` contais the reconstructions that were used for data fiting; `bolo_kb5_reliable.hdf` contains the full KB5 signals for those same pulses.
 
 * `fit_M.py` fits the *M* matrix using the full dataset; `fit_validate_M.py` fits *M* using 90% for training and 10% for validation.
+
+* `train.log` contains the loss and validation loss recorded during training.
 
 * `plot_train.py` plots the loss and validation loss during (or after) training.
 
 * When training finishes, *M* will be saved to `M.npy`.
 
 * `plot_M.py` plots the regularization patterns found in the columns of M.
-
 
