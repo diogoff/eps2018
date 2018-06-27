@@ -14,3 +14,5 @@ D. R. Ferreira, D. D. Carvalho, P. J. Carvalho, H. Fernandes, and JET Contributo
 
 * `fit_M.py` fits the *M* matrix using the full dataset; `fit_validate_M.py` fits the *M* matrix using 90% for training and 10% for validation.
 
+* `plot_train.py` plots the loss and validation loss during (or after) training.
+
