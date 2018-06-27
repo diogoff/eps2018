@@ -6,7 +6,7 @@ D. R. Ferreira, D. D. Carvalho, P. J. Carvalho, H. Fernandes, and JET Contributo
 
 ## Files
 
-* `geam.txt` and `kb5_los.txt` contain the geometry for the vessel and the KB5 lines of sight, respectively.
+* `geom.txt` and `kb5_los.txt` contain the geometry for the vessel and the KB5 lines of sight, respectively.
 
 * `geom.py` contains some simple routines to read those geometry files.
 
