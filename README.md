@@ -1,6 +1,6 @@
 # Source code for the EPS 2018 paper/poster
 
-Regularization extraction for real-time plasma tomography at JET
+_Regularization extraction for real-time plasma tomography at JET_
 [[paper](http://web.tecnico.ulisboa.pt/diogo.ferreira/papers/ferreira18regularization.pdf)]
 [[poster](http://web.tecnico.ulisboa.pt/diogo.ferreira/papers/ferreira18regularization_poster.pdf)]  
 D. R. Ferreira, D. D. Carvalho, P. J. Carvalho, H. Fernandes, and JET Contributors  
