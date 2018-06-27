@@ -9,4 +9,3 @@ D. R. Ferreira, D. D. Carvalho, P. J. Carvalho, H. Fernandes, and JET Contributo
 * `geam.txt` and `kb5_los.txt` contain the geometry for the vessel and the KB% lines of sight, respectively.
 
 * 
-
