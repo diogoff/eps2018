@@ -18,4 +18,6 @@ D. R. Ferreira, D. D. Carvalho, P. J. Carvalho, H. Fernandes, and JET Contributo
 
 * When training finishes, *M* will be saved to `M.npy`.
 
+* `plot_M.py` plots the regularization patterns found in the columns of M.
+
 
