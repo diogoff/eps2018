@@ -4,14 +4,13 @@
 D. R. Ferreira, D. D. Carvalho, P. J. Carvalho, H. Fernandes, and JET Contributors  
 [45th EPS Conference on Plasma Physics](https://eps2018.eli-beams.eu/en/), Prague, Czech Republic, July 2-6, 2018
 
-## File descriptions
+## Files
 
 * `geam.txt` and `kb5_los.txt` contain the geometry for the vessel and the KB5 lines of sight, respectively.
 
 * `geom.py` contains some simple routines to read those geometry files.
 
-* `tomo_kb5_reliable.hdf` contais the reconstructions that were used for data fiting; `bolo_kb5_reliable.hdf` contains the full KB5 signals for those same pulses.
+* `tomo_kb5_reliable.hdf` contais the reconstructions that were used for data fiting; `bolo_kb5_reliable.hdf` contains the full KB5 signals for the same pulses.
 
-* 
-
+* `fit_M.py` fits the *M* matrix using the full dataset; `fit_validate_M.py` fits the *M* matrix using 90% for training and 10% for validation.
 
