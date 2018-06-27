@@ -12,7 +12,10 @@ D. R. Ferreira, D. D. Carvalho, P. J. Carvalho, H. Fernandes, and JET Contributo
 
 * `tomo_kb5_reliable.hdf` contais the reconstructions that were used for data fiting; `bolo_kb5_reliable.hdf` contains the full KB5 signals for the same pulses.
 
-* `fit_M.py` fits the *M* matrix using the full dataset; `fit_validate_M.py` fits the *M* matrix using 90% for training and 10% for validation.
+* `fit_M.py` fits the *M* matrix using the full dataset; `fit_validate_M.py` fits *M* using 90% for training and 10% for validation.
 
 * `plot_train.py` plots the loss and validation loss during (or after) training.
+
+* When training finishes, *M* will be saved to `M.npy`.
+
 
