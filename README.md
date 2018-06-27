@@ -26,4 +26,6 @@ D. R. Ferreira, D. D. Carvalho, P. J. Carvalho, H. Fernandes, and JET Contributo
 
 * `metrics.py` calculates SSIM, PNSR and NRMSE on the validation set, after *M* has been trained.
 
-* `create_movie.py` generates a full-pulse reconstruction video for shot 92213 from t=47.0s to t=54.5s; `92213_47.00_54.50.mp4` contains the output video.
+* `create_movie.py` generates a full-pulse reconstruction video for shot 92213.
+
+* `92213_47.00_54.50.mp4` contains the generated movie.
