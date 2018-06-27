@@ -24,3 +24,5 @@ D. R. Ferreira, D. D. Carvalho, P. J. Carvalho, H. Fernandes, and JET Contributo
 
 * `plot_M.py` plots the regularization patterns found in the columns of M.
 
+* `metrics.py` calculates the SSIM, PNSR and NRMSE metrics on the validation set, after *M* has been trained.
+
